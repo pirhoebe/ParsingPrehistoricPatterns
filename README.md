@@ -20,4 +20,4 @@ This SI consists of 6 main scripts that:
 There are several supporting scripts that are called upon in the main script.These facilitate running certain functions and serve to declutter the scripts.
 The execution of these supporting scripts requires input parameters that are displayed with a message. These parameters have to be set manually if one wants to use the supporting scripts seperately.
 
-Pir Hoebe (p.w.hoebe@rug.nl), p.w.hoebe@rug.nl
+Pir Hoebe (p.w.hoebe@rug.nl)
