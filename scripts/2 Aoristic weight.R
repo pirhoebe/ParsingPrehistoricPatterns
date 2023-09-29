@@ -38,8 +38,6 @@ chronozones$centuries <- chronozones$duration/100
 # an identifier (data_id), and the start and end dates of each record
 # 2 the periods you want the data distirbuted over
 # an identifier (bin_id), and the start and end dates of each period.
-# note that only dates that fall in three timeframes or less can be weighed
-# using this function
 
 source("function aoristic().R")
 
