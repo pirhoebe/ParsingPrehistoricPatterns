@@ -1,5 +1,5 @@
 # ParsingPrehistoricPatterns
-Supplementary Information to Hoebe, Peeters &amp; Arnoldussen 2023. Parsing Prehistoric Patterns. Journal of Archaeological Science Reports
+Supplementary Information to Hoebe, Peeters &amp; Arnoldussen 2023a. Parsing Prehistoric Patterns. Journal of Archaeological Science Reports
 
 The scripts and data in this supplementary material are the basis of the analysis conducted in the abovementioned paper.
 This SI consists of 6 main scripts that:
@@ -21,3 +21,5 @@ There are several supporting scripts that are called upon in the main script.The
 The execution of these supporting scripts requires input parameters that are displayed with a message. These parameters have to be set manually if one wants to use the supporting scripts seperately.
 
 Pir Hoebe (p.w.hoebe@rug.nl)
+
+Supplementary Information to Hoebe, Peeters & Arnoldussen 2023b. Reply to Vermeersch's comment on Hoebe et al. 2023. Parsing prehistoric patterns. is included as R script '5.2 Analysis vetted'
